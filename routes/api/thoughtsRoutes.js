@@ -1,4 +1,4 @@
-const router = require('expres').Router();
+const router = require('express').Router();
 
 const {
     getThoughts,
@@ -25,3 +25,4 @@ router
     .post(createReaction)
     .delete(deleteThought);
 
+module.exports = router;
