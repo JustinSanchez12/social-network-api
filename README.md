@@ -9,13 +9,17 @@ The application will have three models User, Thought, and Reaction. These models
 ## Technology Used
 - Express.js
 - MongoDB
+- Insomnia
 
 ## Testing
 ![alt text](images/screenshot1.PNG)
 This shows that the application is connected to  mongodb and is running
 
 ![alt text](images/screenshot2.PNG)
-However, when I try to run the routes on Insomnia I would get an error
+Here updating the thoughts from an user
+
+![alt text](images/screenshot3.PNG)
+This screenshot shows all of the users, ids, and thoughts that were created either from creating a thought/user and randomly generated seed.
 
 ## Live Recording
-[Recording](https://drive.google.com/file/d/1qdfALmopCv8BSWgDcv7iFhkAFTIA2UmK/view)
+[Recording](https://drive.google.com/file/d/1_PsFiLeYGYt13ecq3UGrF5DKcZiZay2X/view)
