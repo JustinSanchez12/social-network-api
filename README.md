@@ -23,3 +23,7 @@ This screenshot shows all of the users, ids, and thoughts that were created eith
 
 ## Live Recording
 [Recording](https://drive.google.com/file/d/1_PsFiLeYGYt13ecq3UGrF5DKcZiZay2X/view)
+
+## Updates 
+- 7/31: Wasn't able to connect to insomnia due to issues with routing
+- 8/9: Updated the routing so that it can update, create and find all thoughts or by id, which also includes the users. 
